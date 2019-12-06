@@ -22,3 +22,14 @@ body {
       transparent,
       rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
 }
+
+.table {
+  width: 100%;
+  text-align: left;
+}
+
+.user-User,
+.admin-User {
+  padding: 5px 10px;
+  cursor: pointer;
+}
