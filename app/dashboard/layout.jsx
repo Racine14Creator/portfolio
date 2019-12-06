@@ -6,9 +6,10 @@ const menuItems = []
 const layout = ({ children }) => {
     return (
         <>
-            <div>
-                <div className="h-screen bg-slate-600">
+            <div className="h-screen">
+                <div className="w-[220px] h-screen bg-slate-600">
                     <Sidebar />
+                    <h3>Sidebar</h3>
                 </div>
                 <div>
                     <Navbar />
