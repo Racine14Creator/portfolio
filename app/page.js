@@ -1,9 +1,10 @@
+import Dashboard from "./dashboard/page";
 
 export default function Home() {
   return (
     <>
       <div className="bg-black text-white">
-        <h3>Hello dev</h3>
+        <Dashboard />
       </div>
     </>
   )
