@@ -1,11 +1,11 @@
 import Navbar from "../Ui/dashboard/navbar/Navbar"
 import Sidebar from "../Ui/dashboard/sidebar/Sidebar"
 
-const menuItems = []
 
 const layout = ({ children }) => {
     return (
         <>
+            <Navbar />
             <div className="h-screen">
                 <div className="w-[220px] h-screen bg-slate-600">
                     <Sidebar />
