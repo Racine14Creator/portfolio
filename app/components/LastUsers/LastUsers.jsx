@@ -30,7 +30,7 @@ const LastUsers = () => {
                             <div className="flex items-center gap-3">
                                 <div className="avatar">
                                     <div className="mask mask-squircle w-12 h-12">
-                                        <img src="/tailwind-css-component-profile-2@56w.png" alt="Avatar Tailwind CSS Component" />
+                                        <Image width={42} height={42} src="/tailwind-css-component-profile-2@56w.png" alt="Avatar Tailwind CSS Component" />
                                     </div>
                                 </div>
                                 <div>
@@ -60,7 +60,7 @@ const LastUsers = () => {
                             <div className="flex items-center gap-3">
                                 <div className="avatar">
                                     <div className="mask mask-squircle w-12 h-12">
-                                        <img src="/tailwind-css-component-profile-3@56w.png" alt="Avatar Tailwind CSS Component" />
+                                        <Image width={42} height={42} src="/tailwind-css-component-profile-3@56w.png" alt="Avatar Tailwind CSS Component" />
                                     </div>
                                 </div>
                                 <div>
@@ -90,7 +90,7 @@ const LastUsers = () => {
                             <div className="flex items-center gap-3">
                                 <div className="avatar">
                                     <div className="mask mask-squircle w-12 h-12">
-                                        <img src="https://unsplash.com/s/photos/user" alt="Avatar Tailwind CSS Component" />
+                                        <Image width={42} height={42} src="https://unsplash.com/s/photos/user" alt="Avatar Tailwind CSS Component" />
                                     </div>
                                 </div>
                                 <div>
@@ -120,7 +120,7 @@ const LastUsers = () => {
                             <div className="flex items-center gap-3">
                                 <div className="avatar">
                                     <div className="mask mask-squircle w-12 h-12">
-                                        <img src="https://unsplash.com/s/photos/user" alt="Avatar Tailwind CSS Component" />
+                                        <Image width={42} height={42} src="https://unsplash.com/s/photos/user" alt="Avatar Tailwind CSS Component" />
                                     </div>
                                 </div>
                                 <div>
