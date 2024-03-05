@@ -1,4 +1,5 @@
 
+import Footer from './components/Footer/Footer'
 import Navbar from './components/Navbar/Navbar'
 import './globals.css'
 
@@ -15,6 +16,7 @@ export default function RootLayout({ children }) {
         <div className='container max-w-[1240px] m-auto'>
           {children}
         </div>
+        <Footer />
       </body>
     </html>
   )
