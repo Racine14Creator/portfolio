@@ -4,7 +4,7 @@ const Skills = () => {
         <>
             <div className="flex w-full py-5 ">
                 <div className="grid flex-grow card bg-base-300 rounded-box place-items-center p-5">
-                    <img src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg" className="max-w-lg rounded-lg shadow-2xl" />
+                    <Image width={420} height={250} src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg" className="max-w-lg rounded-lg shadow-2xl" />
                 </div>
                 <div className="divider divider-horizontal">OR</div>
                 <div className="grid flex-grow card bg-base-300 p-5 rounded-box place-items-center">

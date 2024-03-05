@@ -25,7 +25,7 @@ const Login = () => {
                                 <a href="#" className="label-text-alt link link-hover">Forgot password?</a>
                             </label>
                         </div>
-                        <p className="my-3 text-1xl text-left">I don't an <Link className='text-primary' href={'/register'}>account</Link> !</p>
+                        <p className="my-3 text-1xl text-left">I don't an <Link className='text-primary' href={"/register"}>account</Link> !</p>
                         <div className="form-control mt-6">
                             <button className="btn btn-primary">Login</button>
                         </div>
